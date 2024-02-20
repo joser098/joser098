@@ -14,6 +14,7 @@ I'm a developer who is constantly seeking opportunities to expand my knowledge a
 ![](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![Flutter](https://img.shields.io/badge/Flutter-13B9FD?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
 
 ### Learning ... <br>
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
